@@ -1,5 +1,8 @@
 import java.util.Scanner;
 public class PrintNumbersInSequence {
+
+    //Adding Comments to validate file modification and push to Git Repo
+
     private int current = 1;
     private final int n;
     public PrintNumbersInSequence(int n) {
